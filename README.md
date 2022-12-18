@@ -1,2 +1,2 @@
 # SIG_TEORI_TGS_18
- Nearest Neighbor Analysis
+ Nearest Neighbor Analysiss
